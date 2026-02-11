@@ -1,0 +1,5 @@
+-- Step 2: Begin creating an answer
+-- To answer this question, I need to:
+-- 1. Use the player table (tblPlayerDim)
+-- 2. Group players by team ID (t_id)
+-- 3. Count how many players belong to each team

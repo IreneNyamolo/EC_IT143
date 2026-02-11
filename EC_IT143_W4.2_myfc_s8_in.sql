@@ -1,0 +1,1 @@
+EXEC dbo.sp_load_myfc_players_per_team;
