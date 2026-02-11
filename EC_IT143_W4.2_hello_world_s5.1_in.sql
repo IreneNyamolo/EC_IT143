@@ -1,0 +1,2 @@
+-- Review table structure and refine if needed
+-- Primary key can be added later using SSMS designer
