@@ -1,0 +1,3 @@
+-- Step 2: Begin creating an answer
+-- I need to count the number of records in the Family_Data table.
+-- Each record represents one family member.

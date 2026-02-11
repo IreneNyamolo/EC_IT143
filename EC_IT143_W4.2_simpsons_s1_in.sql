@@ -1,0 +1,2 @@
+-- Step 1: Question
+-- How many family members are listed in the Simpsons family table?
